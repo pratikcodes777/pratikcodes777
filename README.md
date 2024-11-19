@@ -1,4 +1,5 @@
-<img width="100%" height="25%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDz3FCrIRL7ARgzX4gxe6sC4sFtYCdGGMX0g&s" alt="">
+<img width="100%" height="25%" src="C:\Users\prati\Downloads\github.png" alt="">
+
 
 <h1 align="center">Hi 👋, I'm Pratik Barakoti</h1>
 <h3 align="center">A passionate software engineer from Nepal.</h3>
