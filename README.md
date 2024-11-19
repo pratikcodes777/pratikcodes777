@@ -1,4 +1,5 @@
-<img width="100%" height="20%" src="https://i.pinimg.com/736x/9e/4d/25/9e4d254ecd70471a1e57f6fcab9023ad.jpg" alt="">
+
+<div class="piktowrapper-embed" data-uid="6f6709c77fea-anime-banner-related-to-coding"></div><script>(function(d){var js, id="pikto-embed-js", ref=d.getElementsByTagName("script")[0];if (d.getElementById(id)) { return;}js=d.createElement("script"); js.id=id; js.async=true;js.src="https://create.piktochart.com/assets/embedding/embed.js";ref.parentNode.insertBefore(js, ref);}(document));</script>
 
 
 <h1 align="center">Hi 👋, I'm Pratik Barakoti</h1>
