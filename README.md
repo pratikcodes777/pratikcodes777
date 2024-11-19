@@ -1,4 +1,4 @@
-<img width="100%" height="40%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="">
+<img width="100%" height="25%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDz3FCrIRL7ARgzX4gxe6sC4sFtYCdGGMX0g&s" alt="">
 
 <h1 align="center">Hi 👋, I'm Pratik Barakoti</h1>
 <h3 align="center">A passionate software engineer from Nepal.</h3>
