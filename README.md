@@ -1,5 +1,7 @@
 
-<div class="piktowrapper-embed" data-uid="6f6709c77fea-anime-banner-related-to-coding"></div><script>(function(d){var js, id="pikto-embed-js", ref=d.getElementsByTagName("script")[0];if (d.getElementById(id)) { return;}js=d.createElement("script"); js.id=id; js.async=true;js.src="https://create.piktochart.com/assets/embedding/embed.js";ref.parentNode.insertBefore(js, ref);}(document));</script>
+
+<img width="100%" src="C:\Users\prati\Downloads\git.png" alt="">
+
 
 
 <h1 align="center">Hi 👋, I'm Pratik Barakoti</h1>
