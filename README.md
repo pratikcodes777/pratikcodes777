@@ -1,4 +1,4 @@
-<img width="100%" height="25%" src="https://create.piktochart.com/beta/teams/33193842/saved/66026373?from=ai_app" alt="">
+<img width="100%" height="20%" src="https://i.pinimg.com/736x/9e/4d/25/9e4d254ecd70471a1e57f6fcab9023ad.jpg" alt="">
 
 
 <h1 align="center">Hi 👋, I'm Pratik Barakoti</h1>
